@@ -7,15 +7,13 @@
 </h3>
 
 <p align="center">
-    <a href="https://t.me/saint_foire"> 
+    <a href="https://t.me/Weeb_lover"> 
         <img src="https://img.shields.io/badge/My-Telegram-blue?style=for-the-badge&logo=telegram" alt="Vain Telegram" /> 
     </a>
-    <a href="https://www.instagram.com/mas.firmann/"> 
+    <a href="https://www.instagram.com/akshay_singh1904/"> 
         <img src="https://img.shields.io/badge/My-Instagram-red?style=for-the-badge&logo=instagram" alt="Vain Instagram" /> 
     </a>
-    <a href="https://web.facebook.com/vnn.qy/"> 
-        <img src="https://img.shields.io/badge/My-Facebook-darkblue?style=for-the-badge&logo=facebook" alt="Vain Facebook" /> 
-    </a>
+  
     <a href="https://soundcloud.com/kurogami-aoi"> 
         <img src="https://img.shields.io/badge/My-Soundcloud-orange?style=for-the-badge&logo=soundcloud" alt="Vain Soundcloud" /> 
     </a>
