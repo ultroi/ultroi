@@ -6,7 +6,7 @@ Other thing you need to know:
 
 - 🌱 I’m currently learning on programming.
 
-[![My Telegram Bot](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/PikachuRobo_bot)
+[![My Telegram Bot](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=Bot)](https://t.me/PikachuRobo_bot)
 
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Weeb_lover)
 
