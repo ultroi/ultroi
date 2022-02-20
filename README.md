@@ -1,6 +1,6 @@
 ### Hello There 👋🏻, welcome to my GitHub profile.
 
-Let me introduce you about myself, My name is Akshay  17 from India. My hobby is Listening music, Playing Game and coding.
+Let me introduce you about myself, My name is Akshay, 17 from India. My hobby is Listening music, Playing Game and coding.
 
 
 <p align="center">
