@@ -2,9 +2,13 @@
 
 Let me introduce you about myself, My name is Akshay  17 from India. My hobby is Listening music, Playing Game and coding.
 
-Other thing you need to know:
 
-- 🌱 I’m currently learning on programming.
+<p align="center">
+
+  <img align="center" alt="GIF" src="https://i.postimg.cc/QtLnbHqK/Cheery-Separate-Goldeneye.gif" />
+
+</p>
+
 
 
 
