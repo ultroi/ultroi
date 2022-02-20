@@ -8,7 +8,7 @@ Other thing you need to know:
 
 - 💬 Ask me about Telegram Bot
 
-[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Weeb_lover
+[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Weeb_lover)
 
 ### My Stats
 
