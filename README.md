@@ -24,7 +24,7 @@ Let me introduce you about myself, My name is Akshay, 17 from India. My hobby is
 
 # My Stuffs:~
 
-- PyCharm 😃
+- Android  Studio 😃
 
 - Visual Studio Code 😎
 
