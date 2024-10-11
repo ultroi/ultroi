@@ -12,7 +12,7 @@ Let me introduce you about myself, My name is Akshay, 17 from India. My hobby is
 
 
 
-[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Weeb_lover)
+[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Fakeshingami)
 
 ### My Stats
 
