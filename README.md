@@ -28,7 +28,7 @@
   </div>
 
   <!-- Right: GIF (pushed more to the right) -->
-  <div>
+  <div style="margin-left: 150px;">
     <img src="assets/rem-chuunibyou-anime.gif" alt="Anime Girl GIF" width="250" />
   </div>
 
