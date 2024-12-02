@@ -14,24 +14,23 @@
 
 ### 🌐 **Connect with Me**
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
 
-  <!-- Left GIF -->
-  <img src="https://i.imgur.com/ycjU6ld.gif" alt="Anime Girl GIF Left" width="200" />
-
-  <!-- Buttons in the Center -->
-  <div>
+  <!-- Left: Buttons stacked vertically -->
+  <div style="margin-right: 20px; text-align: center;">
     <a href="https://t.me/Fakeshingami" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-1b77FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Button" />
+      <img src="https://img.shields.io/badge/Telegram-1b77FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Link" />
     </a>
-    <br /><br />
+    <br />
     <a href="https://instagram.com/a_kshay904" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Button" />
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Link" />
     </a>
   </div>
 
-  <!-- Right GIF -->
-  <img src="https://i.imgur.com/ycjU6ld.gif" alt="Anime Girl GIF Right" width="200" />
+  <!-- Right: GIF -->
+  <div>
+    <img src="assets/rem-chuunibyou-anime.gif" alt="Anime Girl GIF" width="250" />
+  </div>
 
 </div>
 
