@@ -26,11 +26,18 @@
 
 ### **📊 My GitHub Stats**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ultroi&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ultroi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultroi&layout=compact&theme=radical&hide_border=true&hide=css" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultroi&layout=compact&theme=midnight-purple&hide=css" alt="Top Languages" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ultroi&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ultroi&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <p align="center">
@@ -40,19 +47,18 @@
 ---
 
 ### 🚀 **My Tools & Tech Stack**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,python,html,css" alt="Tools & Tech Stack" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,python,html,css,js,mongodb" alt="Tools & Tech Stack" />
+</div>
 
 ---
 
 ### ⚡ **My Stuffs**
-- **Android Studio** 😃  
-- **Visual Studio Code** 😎  
-
----
-
-### **🎉 Fun GIF!**
-<p align="center">
-  <img align="center" alt="Fun GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
-</p>
+<div align="center">
+  <ul style="list-style: none; padding: 0;">
+    <li>💻 **Android Studio** - For App Development</li>
+    <li>📝 **Visual Studio Code** - My Favorite Code Editor</li>
+    <li>📂 **MongoDB** - Database for My Projects</li>
+    <li>🐍 **Python** - Language I Love to Code In</li>
+  </ul>
+</div>
