@@ -48,17 +48,39 @@
 
 ### 🚀 **My Tools & Tech Stack**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,python,html,css,js,mongodb" alt="Tools & Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,python,mongodb" alt="Tools & Tech Stack" />
 </div>
 
 ---
 
 ### ⚡ **My Stuffs**
 <div align="center">
-  <ul style="list-style: none; padding: 0;">
-    <li>💻 **Android Studio** - For App Development</li>
-    <li>📝 **Visual Studio Code** - My Favorite Code Editor</li>
-    <li>📂 **MongoDB** - Database for My Projects</li>
-    <li>🐍 **Python** - Language I Love to Code In</li>
-  </ul>
+  <table>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=androidstudio" width="50" alt="Android Studio" />
+        <br />
+        <b>Android Studio</b>
+        <p>For App Development</p>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=vscode" width="50" alt="VS Code" />
+        <br />
+        <b>Visual Studio Code</b>
+        <p>My Favorite Code Editor</p>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="50" alt="MongoDB" />
+        <br />
+        <b>MongoDB</b>
+        <p>Database for My Projects</p>
+      </td>
+      <td align="center" width="150">
+        <img src="https://skillicons.dev/icons?i=python" width="50" alt="Python" />
+        <br />
+        <b>Python</b>
+        <p>Language I Love to Code In</p>
+      </td>
+    </tr>
+  </table>
 </div>
