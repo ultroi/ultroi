@@ -13,14 +13,16 @@
 ---
 
 ### 🌐 **Connect with Me**  
-<p align="center">
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmE2ZmY2YmJlOGNkZTFiNjBjN2U2ZDQ0MmQ5M2U5NmU1NzYxN2MwYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fkZukR450RQ1qnGaq9/giphy.gif" width="300" alt="Anime Waving Animation" />
+  <br /><br />
   <a href="https://t.me/Fakeshingami" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-1b77FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Link" />
   </a>
   <a href="https://instagram.com/a_kshay904" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Link" />
   </a>
-</p>
+</div>
 
 ---
 
