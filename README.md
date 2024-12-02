@@ -17,7 +17,7 @@
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
 
   <!-- Left: Buttons (stacked vertically) -->
-  <div style="margin-right: 20px; text-align: center; display: flex; flex-direction: column; justify-content: center;">
+  <div style="margin-right: 80px; text-align: center; display: flex; flex-direction: column; justify-content: center;">
     <a href="https://t.me/Fakeshingami" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-1b77FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Link" width="200" />
     </a>
