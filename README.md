@@ -1,17 +1,18 @@
-### **Hello There 👋, Welcome to My GitHub Profile!**
-
-Let me introduce myself. My name is **Akshay**, a 18-year-old coder from India 🇮🇳.  
-I enjoy **listening to music**, **playing games**, and, of course, **coding**.  
-
----
+### **👋 Hey There, Welcome to My GitHub Profile!**
 
 <p align="center">
-  <img align="center" alt="GIF" src="https://i.postimg.cc/QtLnbHqK/Cheery-Separate-Goldeneye.gif" width="300" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF6347&width=500&lines=Hello%2C+I'm+Akshay!;A+Passionate+18-year-old+Coder+from+India+🇮🇳;I+❤️+Coding%2C+Music%2C+and+Gaming!;Welcome+to+my+creative+space!+" alt="Typing Animation" />
 </p>
 
 ---
 
-### 🌐 **Connect with Me**
+<p align="center">
+  <img align="center" alt="Coding Vibes GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>  
+
+---
+
+### 🌐 **Connect with Me**  
 <p align="center">
   <a href="https://t.me/Fakeshingami" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-1b77FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Link" />
@@ -53,5 +54,5 @@ I enjoy **listening to music**, **playing games**, and, of course, **coding**.
 
 ### **🎉 Fun GIF!**
 <p align="center">
-  <img align="center" alt="Fun GIF" src="https://media.giphy.com/media/26xBwdIuRJiAiWithi/giphy.gif" width="300" />
+  <img align="center" alt="Fun GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" />
 </p>
