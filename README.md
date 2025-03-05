@@ -40,7 +40,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ultroi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.railway.app/api?username=ultroi&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ultroi&layout=compact&theme=radical&hide_border=true&hide=css" alt="Top Languages" />
