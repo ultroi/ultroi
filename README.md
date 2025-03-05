@@ -17,10 +17,10 @@
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
   <div style="display: flex; flex-direction: column; justify-content: center; margin-right: 0px;">
     <a href="https://t.me/Fakeshingami" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-1b77FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Link" width="200" />
+      <img src="https://img.shields.io/badge/Telegram-1b77FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Link" width="150" />
     </a>
     <a href="https://instagram.com/a_kshay904" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Link" width="200" />
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Link" width="150" />
     </a>
   </div>
   <div>
