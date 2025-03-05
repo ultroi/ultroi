@@ -14,7 +14,7 @@
 
 ### 🌐 **Connect with Me**
 
-<div style="display: flex; justify-content: flex-start; align-items: center; padding: 20px;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 20px; width: 100%; box-sizing: border-box;">
   <div style="display: flex; flex-direction: column; margin-right: 20px;">
     <a href="#" style="margin-bottom: 10px;">
       <button style="background-color: #1b77FF; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">
