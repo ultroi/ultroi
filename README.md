@@ -24,7 +24,7 @@
     </a>
   </div>
   <div>
-    <img src="assets/rem-chuunibyou-anime.gif" alt="Anime Girl GIF" width="250" />
+    <img src="assets/rem-chuunibyou-anime.gif" alt="Anime Girl GIF" width="300" />
   </div>
 </div>
 
