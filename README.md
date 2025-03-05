@@ -14,10 +14,8 @@
 
 ### 🌐 **Connect with Me**
 
-<div align="center" style="display: flex; justify-content: flex-start; align-items: center;">
-
-  <!-- Left: Buttons (stacked vertically) -->
-  <div style="display: flex; flex-direction: column; justify-content: center; margin-right: 30px;">
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+  <div style="display: flex; flex-direction: column; justify-content: center; margin-right: 0px;">
     <a href="https://t.me/Fakeshingami" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-1b77FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Link" width="200" />
     </a>
@@ -25,12 +23,9 @@
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Link" width="200" />
     </a>
   </div>
-
-  <!-- Right: GIF -->
   <div>
     <img src="assets/rem-chuunibyou-anime.gif" alt="Anime Girl GIF" width="250" />
   </div>
-
 </div>
 
 ---
