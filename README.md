@@ -18,7 +18,6 @@
   <div style="display: flex; flex-direction: column; margin-right: 20px;">
     <a href="#" style="margin-bottom: 10px;">
       <button style="background-color: #1b77FF; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer;">
-        <img src="https://img.shields.io/badge/Globe-1b77FF?style=flat-square&logo=world&logoColor=white" alt="Globe" width="20" style="vertical-align: middle;"> Connect with Me
       </button>
     </a>
     <a href="https://t.me/Fakeshingami" target="_blank">
