@@ -14,7 +14,7 @@
 
 ### 🌐 **Connect with Me**
 
-<div style="display: flex; justify-content: column; align-items: flex-start; padding: 50px; width: 100%; box-sizing: border-box;">
+<div style="display: flex; justify-content: center; align-items: flex-start; padding: 50px; width: 100%; box-sizing: border-box;">
   <div style="display: flex; flex-direction: column; margin-right: 50px;">
     <a href="https://t.me/Fakeshingami" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-1b77FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Link" width="150" />
