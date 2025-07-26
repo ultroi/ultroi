@@ -23,7 +23,7 @@
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Link" width="150" />
     </a>
   </div>
-  <div>
+  <div style="align-item: end;">
     <img src="assets/rem-chuunibyou-anime.gif" alt="Anime Girl GIF" width="150" />
   </div>
 </div>
