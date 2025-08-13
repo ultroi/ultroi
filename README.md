@@ -15,7 +15,7 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://t.me/Fakeshingami" target="_blank">
+  <a href="https://t.me/a_kshay904" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-1b77FF?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://instagram.com/a_kshay904" target="_blank">
