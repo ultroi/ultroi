@@ -32,7 +32,7 @@
 ### 🛠️ My Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html, css, js, python, vscode, mongodb, git, github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,vscode,mongodb,git,github" />
 </p>
 
 ---
