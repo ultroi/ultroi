@@ -14,12 +14,15 @@
 
 ### 🌐 Connect with Me
 
-<p align="center">
+<p align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
   <a href="https://t.me/a_kshay904" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-1b77FF?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://instagram.com/a_kshay904" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/akshay-singh-b06320336?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="assets/rem-chuunibyou-anime.gif" width="150" alt="Anime Girl" />
 </p>
