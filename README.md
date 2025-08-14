@@ -14,7 +14,7 @@
 
 ### 🌐 Connect with Me
 
-<p align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+<p align="center" style="display: flex; flex-direction: column; align-items: center; gap: 30px;">
   <a href="https://t.me/a_kshay904" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-1b77FF?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
