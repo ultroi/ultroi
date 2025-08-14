@@ -21,11 +21,11 @@
   <a href="https://instagram.com/a_kshay904" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
   <img src="assets/rem-chuunibyou-anime.gif" width="150" alt="Anime Girl" />
 </p>
+
+
+  
 
 ---
 
