@@ -62,11 +62,6 @@
 <table align="center">
   <tr>
     <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="40" />
-      <br /><b>Android Studio</b>
-      <p>App Development</p>
-    </td>
-    <td align="center" width="150">
       <img src="https://skillicons.dev/icons?i=vscode" width="40" />
       <br /><b>VS Code</b>
       <p>Code Editor</p>
