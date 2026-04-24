@@ -35,7 +35,7 @@
 
   <!-- Right Side: GIF -->
   <div>
-    <img src="assets/rem-chuunibyou-anime.gif" width="150" alt="Anime Girl" />
+    <img src="assets/rem-chuunibyou-anime.gif" width="150" alt="Anime Girl"startwith:end"/>
   </div>
 
 </div>
