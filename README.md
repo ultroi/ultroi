@@ -14,7 +14,7 @@
 
 ### 🌐 Connect with Me
 
-"<table align="center">
+ <table align="center">
   <tr>
     <td align="center" valign="middle" width="420">
       <a href="https://t.me/a_kshay904" target="_blank">
@@ -33,7 +33,7 @@
       <img src="assets/rem-chuunibyou-anime.gif" width="150" alt="Anime Girl" />
     </td>
   </tr>
-</table>"
+</table>
 
 
 ---
