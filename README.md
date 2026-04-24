@@ -14,31 +14,26 @@
 
 ### 🌐 Connect with Me
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
-
-  <!-- Left Side: Buttons -->
-  <div style="display: flex; flex-direction: column; gap: 15px;">
-    
-  <a href="https://t.me/a_kshay904" target="_blank">
-      <img src="https://img.shields.io/badge/Telegram-1b77FF?style=for-the-badge&logo=telegram&logoColor=white" />
-    </a>
-
-  <a href="https://instagram.com/a_kshay904" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-
-  <a href="https://www.linkedin.com/in/akshay-singh-b06320336" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-
-  </div>
-
-  <!-- Right Side: GIF -->
-  <div>
-    <img src="assets/rem-chuunibyou-anime.gif" width="150" alt="Anime Girl"startwith:end"/>
-  </div>
-
-</div>
+"<table align="center">
+  <tr>
+    <td align="center" valign="middle" width="420">
+      <a href="https://t.me/a_kshay904" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-1b77FF?style=for-the-badge&logo=telegram&logoColor=white" />
+      </a>
+      <br/><br/>
+      <a href="https://instagram.com/a_kshay904" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+      </a>
+      <br/><br/>
+      <a href="https://www.linkedin.com/in/akshay-singh-b06320336?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" valign="middle" width="200">
+      <img src="assets/rem-chuunibyou-anime.gif" width="150" alt="Anime Girl" />
+    </td>
+  </tr>
+</table>"
 
 
 ---
