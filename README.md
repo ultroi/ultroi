@@ -19,15 +19,15 @@
   <!-- Left Side: Buttons -->
   <div style="display: flex; flex-direction: column; gap: 15px;">
     
-    <a href="https://t.me/a_kshay904" target="_blank">
+  <a href="https://t.me/a_kshay904" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-1b77FF?style=for-the-badge&logo=telegram&logoColor=white" />
     </a>
 
-    <a href="https://instagram.com/a_kshay904" target="_blank">
+  <a href="https://instagram.com/a_kshay904" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
 
-    <a href="https://www.linkedin.com/in/akshay-singh-b06320336" target="_blank">
+  <a href="https://www.linkedin.com/in/akshay-singh-b06320336" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 
