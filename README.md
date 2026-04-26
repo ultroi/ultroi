@@ -1,7 +1,11 @@
 ### 👋 Welcome to My GitHub Profile!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF6347&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Akshay.;A+Passionate+18-year-old+Coder+from+India.;I+love+Coding%2C+Gaming+and+Music.;Welcome+to+my+Creative+Space!+💻🎮🎧" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF6347&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Akshay.;A+Passionate+Coder+from+India.;I+love+Coding%2C+Gaming+and+Music.;Welcome+to+my+Creative+Space!+💻🎮🎧" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <img src="https://api.age-calculator.ajayakv.workers.dev/?dob=2006-01-01" alt="Age Badge" />
 </p>
 
 ---
