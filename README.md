@@ -34,15 +34,12 @@
 </table>
 
 
----
-
 ### 🛠️ My Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,vscode,mongodb,git,github" />
 </p>
 
----
 
 ### 📊 GitHub Stats
 
@@ -59,29 +56,24 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ultroi" alt="Visitor Count" />
 </p>
 
----
+### Tools
 
-### ⚡ Tech Stack Highlights
+<p align="center">
+  <a href="https://"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+  <a href="https://"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /></a>
+  <a href="https://"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /></a>
+</p>
+<p align="center">
+  <a href="https://"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+  <a href="https://"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /></a>
+  <a href="https://"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+  <a href="https://"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+  <a href="https://"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" /></a>
+</p>
+<p align="center">
+  <a href="https://"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
+</p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=vscode" width="40" />
-      <br /><b>VS Code</b>
-      <p>Code Editor</p>
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="40" />
-      <br /><b>MongoDB</b>
-      <p>NoSQL Database</p>
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=python" width="40" />
-      <br /><b>Python</b>
-      <p>Scripting & Automation</p>
-    </td>
-  </tr>
-</table>
 
 ### 🏆 GitHub Trophies
 <p align="center">
