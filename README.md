@@ -59,9 +59,8 @@
 </p>
 
 
-### ✨ Quote
-<p align="center">
-  
-<img src="https://github.githubassets.com/images/mona-whisper.gif" width="180"/> *"Consistency beats motivation — Keep building cool stuff 🚀"*
+# ✨ Quote
 
+<p align="center">
+<img src="https://github.githubassets.com/images/mona-whisper.gif" width="180"/> *"Consistency beats motivation — Keep building cool stuff 🚀"*
 </p>
