@@ -86,13 +86,28 @@
 
 # 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ultroi&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+# 📊 GitHub Stats
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ultroi&color=brightgreen&style=for-the-badge" alt="Profile views"/>
+</div>
+<div align="center">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ultroi&show_icons=True&include_all_commits=True&count_private=True&theme=catppuccin_mocha&hide_border=true&border_radius=12" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ultroi&theme=catppuccin-mocha&hide_border=true&border_radius=12" height="180" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ultroi&theme=slateorange&utcOffset=5.5" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ultroi&theme=slateorange&utcOffset=5.5" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ultroi&theme=slateorange" height="180"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ultroi&theme=xcode&hide_border=false&bg_color=1e1e2e&color=cba6f7&line=cba6f7&point=f5c2e7&area=true&area_color=f5c2e7" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ultroi&theme=react-dark"/>
-</p>
+<div align="center">
+  <img src="https://github.githubassets.com/images/mona-whisper.gif" width="200" />
+  <img src="https://github-contribution-stats.vercel.app/api?username=ultroi&count_private=true&show_icons=true&theme=radical" />
+  <img src="https://github.githubassets.com/images/mona-whisper.gif" width="200" />
+</div>
 
 ---
 
