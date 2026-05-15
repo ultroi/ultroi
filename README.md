@@ -18,13 +18,12 @@
 
 > [!IMPORTANT]
 > - 🎓 Currently pursuing **BCA (2nd Year)**
-> - 🌱 Currently learning **AI + Advanced Development**
-> - 🤖 Building **Telegram Bots using Python**
+> - 🌱 Currently learning **AI + Web Development**
+> - 🤖 Building **Websites, bots etc**
 > - 💻 Love creating projects and experimenting with new ideas
 > - 🎮 Gaming + Music lover
 > - 🚀 Goal: Become a great Software Engineer
 > - 📅 Born on **11 November**
-> - 💬 Ask me anything about Python, bots, or beginner coding stuff
 
 ---
 
@@ -88,9 +87,18 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ultroi&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ishikki-akabane&show_icons=True&include_all_commits=True&count_private=True&theme=catppuccin_mocha&hide_border=true&border_radius=12" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ishikki-akabane&theme=catppuccin-mocha&hide_border=true&border_radius=12" height="180" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishikki-akabane&theme=slateorange&utcOffset=5.5" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ishikki-akabane&theme=slateorange&utcOffset=5.5" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishikki-akabane&theme=slateorange" height="180"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishikki-akabane&theme=xcode&hide_border=false&bg_color=1e1e2e&color=cba6f7&line=cba6f7&point=f5c2e7&area=true&area_color=f5c2e7" />
+</div>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ultroi&theme=react-dark"/>
