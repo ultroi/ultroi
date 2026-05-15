@@ -26,26 +26,16 @@
 # 🚀 Currently Working On
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-
 </p>
 
----
 
 # 📈 GitHub Stats
 
@@ -61,7 +51,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ultroi&theme=react-dark"/>
 </p>
 
----
 
 # 🏆 GitHub Trophies
 
@@ -69,20 +58,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ultroi&theme=radical&no-frame=true&row=1"/>
 </p>
 
----
-
-# 🎮 Fun Zone
-
-<p align="center">
-  <img src="https://github.githubassets.com/images/mona-whisper.gif" width="180"/>
-</p>
-
----
 
 ### ✨ Quote
-
 <p align="center">
   
-*"Consistency beats motivation — Keep building cool stuff 🚀"*
+<img src="https://github.githubassets.com/images/mona-whisper.gif" width="180"/> *"Consistency beats motivation — Keep building cool stuff 🚀"*
 
 </p>
