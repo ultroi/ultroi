@@ -1,14 +1,10 @@
 <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF6347&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Akshay.;A+Passionate+Coder+from+India.;I+love+Coding%2C+Gaming+and+Music.;Welcome+to+my+Creative+Space!+💻🎮🎧" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</p>
-
----
 
 # 🌐 Connect With Me
 
@@ -26,7 +22,6 @@
   </a>
 </p>
 
----
 
 # 🚀 Currently Working On
 
