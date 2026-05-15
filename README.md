@@ -1,5 +1,3 @@
-### 👋 Welcome to My GitHub Profile!
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF6347&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Akshay.;A+Passionate+Coder+from+India.;I+love+Coding%2C+Gaming+and+Music.;Welcome+to+my+Creative+Space!+💻🎮🎧" alt="Typing Animation" />
 </p>
