@@ -85,6 +85,11 @@
   </tr>
 </table>
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ultroi&theme=gruvbox&no-frame=false&margin-w=15&row=1" />
+</p>
+
 ---
 
 > _"Consistency is the key to success — Keep Coding!"_
