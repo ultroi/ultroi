@@ -13,7 +13,7 @@
 # 👨‍💻 About Me
 
 <p align="center">
-  <b>Hey! I'm Akshay from India 🇮🇳</b>
+  <b>Hey! I'm Akshay from India</b>
 </p>
 
 > [!IMPORTANT]
