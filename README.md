@@ -1,82 +1,93 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF6347&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Akshay.;A+Passionate+Coder+from+India.;I+love+Coding%2C+Gaming+and+Music.;Welcome+to+my+Creative+Space!+💻🎮🎧" alt="Typing Animation" />
-</p>
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Vibes" />
-</p>
-
-
-### 🌐 Connect with Me
-
- <table align="center">
-  <tr>
-    <td align="center" valign="middle" width="420">
-      <a href="https://t.me/a_kshay904" target="_blank">
-        <img src="https://img.shields.io/badge/Telegram-1b77FF?style=for-the-badge&logo=telegram&logoColor=white" />
-      </a>
-      <br/><br/>
-      <a href="https://instagram.com/a_kshay904" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-      </a>
-      <br/><br/>
-      <a href="https://www.linkedin.com/in/akshay-singh-b06320336?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-    </td>
-    <td align="center" valign="middle" width="200">
-      <img src="assets/rem-chuunibyou-anime.gif" width="150" alt="Anime Girl" />
-    </td>
-  </tr>
-</table>
-
-
-### 🛠️ My Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,vscode,mongodb,git,github" />
-</p>
-
-
-# 📊 GitHub Stats
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ultroi&color=brightgreen&style=for-the-badge" alt="Profile views"/>
-</div>
-<div align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ultroi&show_icons=True&include_all_commits=True&count_private=True&theme=catppuccin_mocha&hide_border=true&border_radius=12" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ultroi&theme=catppuccin-mocha&hide_border=true&border_radius=12" height="180" />
-</div>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ultroi&theme=slateorange&utcOffset=5.5" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ultroi&theme=slateorange&utcOffset=5.5" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ultroi&theme=slateorange" height="180"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ultroi&theme=xcode&hide_border=false&bg_color=1e1e2e&color=cba6f7&line=cba6f7&point=f5c2e7&area=true&area_color=f5c2e7" />
-</div>
-
-<div align="center">
-  <img src="https://github.githubassets.com/images/mona-whisper.gif" width="200" />
-  <img src="https://github-contribution-stats.vercel.app/api?username=ishikki-akabane&count_private=true&show_icons=true&theme=radical" />
-  <img src="https://github.githubassets.com/images/mona-whisper.gif" width="200" />
-</div>
-
-### Tools
-
-<p align="center">
-  <a href="https://"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
-  <a href="https://"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
-  <a href="https://"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
-</p>
-
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ultroi&theme=gruvbox&no-frame=false&margin-w=15&row=1" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF6347&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Akshay.;A+Passionate+Coder+from+India.;I+love+Coding%2C+Gaming+and+Music.;Welcome+to+my+Creative+Space!+💻🎮🎧" />
 </p>
 
 ---
 
-> _"Consistency is the key to success — Keep Coding!"_
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
 
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://t.me/a_kshay904">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/a_kshay904">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="https://linkedin.com/in/akshay-singh-b06320336">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+# 🚀 Currently Working On
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ultroi&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ultroi&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ultroi&theme=react-dark"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ultroi&theme=radical&no-frame=true&row=1"/>
+</p>
+
+---
+
+# 🎮 Fun Zone
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/mona-whisper.gif" width="180"/>
+</p>
+
+---
+
+### ✨ Quote
+
+<p align="center">
+  
+*"Consistency beats motivation — Keep building cool stuff 🚀"*
+
+</p>
