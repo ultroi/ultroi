@@ -30,19 +30,19 @@
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://t.me/a_kshay904">
-    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white&target='_blank'"/>
+  <a href="https://t.me/a_kshay904" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 
-  <a href="https://instagram.com/a_kshay904">
+  <a href="https://instagram.com/a_kshay904" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-  <a href="https://linkedin.com/in/akshay-singh-b06320336">
+  <a href="https://linkedin.com/in/akshay-singh-b06320336" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/ultroi">
+  <a href="https://github.com/ultroi" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
