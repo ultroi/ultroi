@@ -62,5 +62,14 @@
 # ✨ Quote
 
 <p align="center">
-<img src="https://github.githubassets.com/images/mona-whisper.gif" width="180"/> *"Consistency beats motivation — Keep building cool stuff 🚀"*
+  <table>
+    <tr>
+      <td align="center" valign="middle">
+        <img src="https://github.githubassets.com/images/mona-whisper.gif" width="180"/>
+      </td>
+      <td align="left" valign="middle" style="padding-left:20px;">
+        <span style="font-size: 18px;"><i>"Consistency beats motivation — Keep building cool stuff 🚀"</i></span>
+      </td>
+    </tr>
+  </table>
 </p>
