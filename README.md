@@ -65,4 +65,5 @@
   <img src="https://github.githubassets.com/images/mona-whisper.gif" width="180"/>
   &nbsp;&nbsp;&nbsp;
   <b><i>Consistency beats motivation — Keep building cool stuff 🚀</i></b>
+  <img src="https://github.githubassets.com/images/mona-whisper.gif" width="180"/>
 </p>
