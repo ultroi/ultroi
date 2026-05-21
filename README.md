@@ -21,7 +21,6 @@
 > - 🌱 Currently learning **AI + Web Development**
 > - 🤖 Building **Websites, bots etc**
 > - 💻 Love creating projects and experimenting with new ideas
-> - 🎮 Gaming + Music lover
 > - 🚀 Goal: Become a great Software Engineer
 > - 📅 Born on **11 November**
 
