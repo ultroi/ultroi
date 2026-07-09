@@ -18,7 +18,7 @@
 
 > [!IMPORTANT]
 > - 🎓 Currently pursuing **BCA (2nd Year)**
-> - 🌱 Currently learning **AI + Web Development**
+> - 🌱 Currently learning **AI/ML + Web Development**
 > - 🤖 Building **Websites, bots etc**
 > - 💻 Love creating projects and experimenting with new ideas
 > - 🚀 Goal: Become a great Software Engineer
