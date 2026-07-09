@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://github.com/ultroi">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=BCA%20Student%20from%20India;Python%20Developer;Building%20Telegram%20Bots;Learning%20AI%20and%20Web%20Development;Future%20Software%20Engineer&font=Fira%20Code&center=true&width=600&height=45&color=f75c7e&vCenter=true&pause=1000&size=22"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=BCA%20Student%20from%20India;Python%20Developer;Building%20Telegram%20Bots;Learning%20AI%20and%20Web%20Development;Future%20Software%20Engineer&font=Fira%20Code&center=true&width=600&height=45&color=f75c7e&vCenter=true&pause=1000&size=22"/>
+  <a href="https://github.com/ultroi">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+  </a>
 </p>
 
 ---
