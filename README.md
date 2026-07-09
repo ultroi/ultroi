@@ -101,11 +101,13 @@
 
 ---
 
-# 🏆 GitHub Trophies
+# 🧩 LeetCode Stats
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ultroi&theme=radical&no-frame=true&row=2&column=4"/>
-</p>
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/a_kshay904?theme=dark&font=Fira%20Code&ext=contest" />
+
+</div>
 
 ---
 
