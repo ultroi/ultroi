@@ -100,10 +100,7 @@
 # 🧩 LeetCode Stats
 
 <div align="center">
-
-<!-- <img src="https://leetcard.jacoblin.cool/a_kshay904?theme=dark&font=Fira%20Code&ext=contest" /> -->
-<img src="https://leetcode-status.vercel.app/api/card/a_kshay904?theme=dark" />
-
+<img src="https://leetcard.jacoblin.cool/a_kshay904?theme=dark&font=Fira%20Code&ext=contest" />
 </div>
 
 ---
