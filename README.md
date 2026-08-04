@@ -23,7 +23,7 @@
 
 > [!IMPORTANT]
 > - 💻 MERN Stack Developer
-> - 🎓 Currently pursuing **BCA (2nd Year)**
+> - 🎓 Currently pursuing **BCA (3rd Year)**
 > - 🌱 Currently learning **AI/ML + Web Development**
 > - 🤖 Building **Websites, bots etc**
 > - 💻 Love creating projects and experimenting with new ideas
