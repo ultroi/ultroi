@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey%2C%20I'm%20Akshay%20%F0%9F%91%8B;BCA%20Student%20from%20India%20%F0%9F%87%AE%F0%9F%87%B3;MERN%20Stack%20Developer;Building%20Modern%20Full%20Stack%20Web%20Applications;Exploring%20AI%20%26%20Machine%20Learning;Always%20Learning%2C%20Always%20Building%20%F0%9F%9A%80&font=Fira%20Code&center=true&width=800&height=45&color=58A6FF&vCenter=true&pause=1200&size=24"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Akshay;BCA+Student+from+India;MERN+Stack+Developer;Building+Modern+Full+Stack+Applications;Exploring+AI+%26+Machine+Learning;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
@@ -53,7 +53,12 @@
 
 ---
 
-# 🚀 Currently Working With
+
+
+<h2 align="left">
+  <img src="https://img.icons8.com/fluency/32/laptop-coding.png" width="28"/>
+  Tech Stack
+</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -69,7 +74,11 @@
 
 ---
 
-# 🛠 Tools
+
+<h2 align="left">
+  <img src="https://img.icons8.com/fluency/32/toolbox.png" width="28"/>
+  Tools
+</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -82,7 +91,11 @@
 
 ---
 
-# 📊 GitHub Stats
+
+<h2 align="left">
+  <img src="https://img.icons8.com/fluency/32/combo-chart.png" width="28"/>
+  GitHub Statistics
+</h2>
 
 <div align="center">
   <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ultroi&show_icons=True&include_all_commits=True&count_private=True&theme=catppuccin_mocha&hide_border=true&border_radius=12" height="180"/>
@@ -99,7 +112,11 @@
 
 ---
 
-# 🧩 LeetCode Stats
+
+<h2 align="center">
+  <img src="https://img.icons8.com/fluency/32/quote.png" width="28"/>
+  Quote
+</h2>
 
 <div align="center">
 <img src="https://leetcard.jacoblin.cool/a_kshay904?theme=dark&font=Fira%20Code&ext=contest" />
@@ -107,7 +124,11 @@
 
 ---
 
-# ✨ Quote
+
+<h2 align="center">
+  <img src="https://img.icons8.com/fluency/32/quote.png" width="28"/>
+  Quote
+</h2>
 
 <p align="center">
   <img src="https://github.githubassets.com/images/mona-whisper.gif" width="120"/>
