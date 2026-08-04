@@ -9,10 +9,11 @@
   </a>
 </p>
 </div>
+<br><br>
 
 ---
 
-
+<br><br>
 <h2 align="left">
   <img src="https://img.icons8.com/fluency/32/source-code.png" width="28"/>
   About Me
@@ -30,10 +31,11 @@
 > - 💻 Love creating projects and experimenting with new ideas
 > - 🚀 Goal: Become a great Software Engineer
 > - 📅 Born on **11 November**
+<br><br>
 
 ---
 
-
+<br><br>
 <h2 align="left">
   <img src="https://img.icons8.com/fluency/32/share-2.png" width="28"/>
   Connect With Me
@@ -52,11 +54,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+<br><br>
 
 ---
 
-
-
+<br><br>
 <h2 align="left">
   <img src="https://img.icons8.com/fluency/32/laptop-coding.png" width="28"/>
   Tech Stack
@@ -73,10 +75,11 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
+<br><br>
 
 ---
 
-
+<br><br>
 <h2 align="left">
   <img src="https://img.icons8.com/fluency/32/toolbox.png" width="28"/>
   Tools
@@ -90,10 +93,11 @@
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </p>
+<br><br>
 
 ---
 
-
+<br><br>
 <h2 align="left">
   <img src="https://img.icons8.com/fluency/32/combo-chart.png" width="28"/>
   GitHub Statistics
@@ -111,23 +115,25 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ultroi&theme=xcode&hide_border=false&bg_color=1e1e2e&color=cba6f7&line=cba6f7&point=f5c2e7&area=true&area_color=f5c2e7" />
 </div>
+<br><br>
 
 ---
 
-
+<br><br>
 <h2 align="center">
   <img src="https://img.icons8.com/fluency/32/quote.png" width="28"/>
   Quote
 </h2>
 
-<div align="center">
+<div align="left">
 <img src="https://leetcard.jacoblin.cool/a_kshay904?theme=dark&font=Fira%20Code&ext=contest" />
 </div>
+<br><br>
 
 ---
 
-
-<h2 align="center">
+<br><br>
+<h2 align="left">
   <img src="https://img.icons8.com/fluency/32/quote.png" width="28"/>
   Quote
 </h2>
