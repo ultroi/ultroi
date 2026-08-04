@@ -118,13 +118,13 @@
 ---
 
 <br><br>
-<h2 align="center">
-  <img src="https://img.icons8.com/fluency/32/quote.png" width="28"/>
-  Quote
+<h2 align="left">
+  <img src="https://img.icons8.com/fluency/32/trophy.png" width="28"/>
+  LeetCode Stats
 </h2>
 
-<div align="left">
-<img src="https://leetcard.jacoblin.cool/a_kshay904?theme=dark&font=Fira%20Code&ext=contest" />
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/a_kshay904?theme=dark&font=Fira%20Code&ext=contest" />
 </div>
 <br><br>
 
@@ -133,7 +133,7 @@
 <br><br>
 <h2 align="left">
   <img src="https://img.icons8.com/fluency/32/quote.png" width="28"/>
-  Quote
+  Favorite Quote
 </h2>
 
 <p align="center">
@@ -141,5 +141,5 @@
 </p>
 
 <p align="center">
-  <b><i>Consistency beats motivation — Keep coding and building cool stuff 🚀</i></b>
+  <b><i>"Consistency beats motivation — Keep coding and building cool stuff."</i></b>
 </p>
