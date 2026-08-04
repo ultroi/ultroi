@@ -1,12 +1,14 @@
-<p align="center">
+<div display=""flex">
+<p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Akshay;BCA+Student+from+India;MERN+Stack+Developer;Building+Modern+Full+Stack+Applications;Exploring+AI+%26+Machine+Learning;Always+Learning+New+Technologies" />
 </p>
 
-<p align="center">
+<p align="right">
   <a href="https://github.com/ultroi">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
   </a>
 </p>
+</div>
 
 ---
 
