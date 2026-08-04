@@ -10,7 +10,8 @@
 
 ---
 
-<h2 align="center">
+
+<h2 align="left">
   <img src="https://img.icons8.com/fluency/32/source-code.png" width="28"/>
   About Me
 </h2>
@@ -30,7 +31,11 @@
 
 ---
 
-# 🌐 Connect With Me
+
+<h2 align="left">
+  <img src="https://img.icons8.com/fluency/32/share-2.png" width="28"/>
+  Connect With Me
+</h2>
 
 <p align="center">
   <a href="https://t.me/a_kshay904" target="_blank">
