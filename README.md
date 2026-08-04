@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=BCA%20Student%20from%20India;Python%20Developer;Building%20Telegram%20Bots;Learning%20AI%20and%20Web%20Development;Future%20Software%20Engineer&font=Fira%20Code&center=true&width=600&height=45&color=f75c7e&vCenter=true&pause=1000&size=22"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey%2C%20I'm%20Akshay%20%F0%9F%91%8B;BCA%20Student%20from%20India%20%F0%9F%87%AE%F0%9F%87%B3;MERN%20Stack%20Developer;Building%20Modern%20Full%20Stack%20Web%20Applications;Exploring%20AI%20%26%20Machine%20Learning;Always%20Learning%2C%20Always%20Building%20%F0%9F%9A%80&font=Fira%20Code&center=true&width=800&height=45&color=58A6FF&vCenter=true&pause=1200&size=24"/>
 </p>
 
 <p align="center">
