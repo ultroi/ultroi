@@ -10,7 +10,10 @@
 
 ---
 
-# 👨‍💻 About Me
+<h2 align="center">
+  <img src="https://img.icons8.com/fluency/32/source-code.png" width="28"/>
+  About Me
+</h2>
 
 <p align="center">
   <b>Hey! I'm Akshay from India</b>
