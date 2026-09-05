@@ -39,7 +39,7 @@
   Connect With Me
 </h2>
 
-<p align="center" display="flex" gap="5px">
+<p align="center" display="flex" gap="5px" align-items="center">
   <a href="https://t.me/a_kshay904" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
